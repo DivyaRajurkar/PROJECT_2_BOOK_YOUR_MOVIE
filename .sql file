@@ -1,0 +1,7 @@
+enter passwoard
+show database;
+use movie;
+show tabels;
+select * from seat;
+show tabels; #it show only 2 tabels 
+show tabels; #after perssing exist=0 it show 3tabels
